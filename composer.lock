@@ -801,21 +801,21 @@
         },
         {
             "name": "endroid/qr-code",
-            "version": "4.3.5",
+            "version": "4.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/endroid/qr-code.git",
-                "reference": "5630e192948b466d418608ecce697465d20260af"
+                "reference": "8ecd0dc46a4ce873f8d22bd603655755a364cb9e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/endroid/qr-code/zipball/5630e192948b466d418608ecce697465d20260af",
-                "reference": "5630e192948b466d418608ecce697465d20260af",
+                "url": "https://api.github.com/repos/endroid/qr-code/zipball/8ecd0dc46a4ce873f8d22bd603655755a364cb9e",
+                "reference": "8ecd0dc46a4ce873f8d22bd603655755a364cb9e",
                 "shasum": ""
             },
             "require": {
                 "bacon/bacon-qr-code": "^2.0",
-                "php": "^7.3||^8.0"
+                "php": "^7.4||^8.0"
             },
             "require-dev": {
                 "endroid/quality": "dev-master",
@@ -861,7 +861,7 @@
             ],
             "support": {
                 "issues": "https://github.com/endroid/qr-code/issues",
-                "source": "https://github.com/endroid/qr-code/tree/4.3.5"
+                "source": "https://github.com/endroid/qr-code/tree/4.4.0"
             },
             "funding": [
                 {
@@ -869,7 +869,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2021-09-17T07:50:43+00:00"
+            "time": "2021-10-31T09:53:40+00:00"
         },
         {
             "name": "fideloper/proxy",
